@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ColorTagView">
+
+        <!--文字大小-->
+        <attr name="textSize" format="dimension"/>
+        <!--文字颜色-->
+        <attr name="textColor" format="color"/>
+
+        <!--背景-->
+        <attr name="color_background" format="reference"/>
+
+
+        <!--paddingtop-->
+        <attr name="paddingTopBottom" format="dimension"/>
+        <!--paddingbottom-->
+        <attr name="paddingLeftRight" format="dimension"/>
+
+
+
+    </declare-styleable>
+
+
+</resources>
